@@ -42,3 +42,11 @@ For using the elevatoruse these commands
 ros2 service call /apply_joint_effort gazebo_msgs/srv/ApplyJointEffort '{joint_name: "robot_elevator_platform_joint", effort: 1.0, start_time: {sec: 0, nanosec: 0}, duration: {sec: -1, nanosec: 0} }'
 
 ros2 service call /apply_joint_effort gazebo_msgs/srv/ApplyJointEffort '{joint_name: "robot_elevator_platform_joint", effort: -1.0, start_time: {sec: 0, nanosec: 0}, duration: {sec: -1, nanosec: 0} }'
+
+## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Phase 2: Strengthen Your Robotics Programming Skills - Section 15 : ROS2 Control
+## Checkpoint 15: ROS2 Control
+##### Description - This checkpoint is about integrating ROS2 Control with the RB1 Robot
+##### Score - 9.3/10
+##### Attempts - 1
